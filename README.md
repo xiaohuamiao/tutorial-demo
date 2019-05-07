@@ -1,2 +1,2 @@
 # tutorial-demo
-教程与案例
+笔记与案例
